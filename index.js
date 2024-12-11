@@ -15,3 +15,8 @@ root.render(
     </div>
   </StrictMode>
 );
+
+<p>
+  Open sourced at <a href="https://github.com/L00ptyl00p">GitHub</a> hosted on
+  <a href="https://storied-faloodeh-fdd58a.netlify.app/">Netlify</a>
+</p>;
